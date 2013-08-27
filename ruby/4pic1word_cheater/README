@@ -1,0 +1,8 @@
+#作者
+democracyinchina@gmail.com
+
+#功能描述
+用于应用4 pics 1 word的作弊，使用穷举法列出所有可能
+
+#输入
+3catdog、4fishman之类，单词的长度后接组成字母
