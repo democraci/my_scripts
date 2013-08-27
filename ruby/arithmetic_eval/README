@@ -1,0 +1,15 @@
+#autor 
+zhangtingle
+
+#description
+简单的大整数四则运算, 使用ruby语言编写，需要在机器上安装ruby。
+-h选项，打印程序使用帮助。
+-f file和--file FILE选项用于计算存储在文件中的四则运算表达式。
+如果没有提供任何选项，则手工输入四则运算表达式，或者使用quit、exit退出程序。
+
+#environment
+ruby 1.9.3
+
+#usage
+Usage: ruby calculator.rb [options]
+    -f, --file FILE                  calculator expression in file FILE
